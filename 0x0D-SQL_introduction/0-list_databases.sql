@@ -1,3 +1,3 @@
 -- list all database.
 
-SHOW database;
+SHOW DATABASE;
