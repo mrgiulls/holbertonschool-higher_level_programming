@@ -3,7 +3,7 @@
 -- Each record should display: tv_shows.title
 -- Results must be sorted in ascending order by the show title
 -- You can use only one SELECT statement
--- The database name will be passed as an argument of the mysql command
+-- The database name will be pased as an argument of the mysql command
 
 SELECT tv_shows.title
 FROM tv_shows
