@@ -1,6 +1,6 @@
 #!/usr/bin/node
 
-const Squares = require('./5-square');
+const Squares = require('./4-rectangle');
 class Square extends Squares {
   charPrint (C) {
     const x = !C ? 'x' : C;
